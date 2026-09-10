@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.vercel.pionerotech_app.twa",
+    "sha256_cert_fingerprints": ["E9:D5:E6:69:26:D4:99:BF:D5:4B:10:3E:4B:6D:BB:08:B4:CB:E1:EA:7C:DD:51:35:57:63:0C:52:80:42:3B:61"]
+  }
+}]
